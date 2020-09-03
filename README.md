@@ -1,2 +1,2 @@
 # google_search_box
-![google](google_Search_box/images/index.PNG)
+![google](https://github.com/TayMaaMT/google_search_box/blob/master/images/index.PNG)
